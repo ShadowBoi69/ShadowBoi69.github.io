@@ -105,7 +105,7 @@ td {
 <script>
 
 const MAX_PAGE = 100000;
-const DEFAULT_NAME = "Bot";
+const DEFAULT_NAME = "0";
 const DEFAULT_LW = "0";
 const INDEX = {
   "rank": 1,
